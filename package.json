@@ -1,7 +1,7 @@
 {
-  "name": "deep-check",
+  "name": "deep-check-error",
   "version": "1.0.0",
-  "description": "check for the existence of deeply nested objects",
+  "description": "Run deep-check and throw and Error for missing properties",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
